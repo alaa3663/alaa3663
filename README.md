@@ -1,13 +1,12 @@
 # Hi, I'm Alaa
 
-First-year Computer Science student passionate about Linux, DevOps and the Cloud.
+Second-year Computer Science student passionate about Linux, DevOps, Cloud and AI.
 
 ## Tech Stack
 - Linux/CLI
 - Git & Version Control
 - Python
-- Bash scripting
-- C Programming
+- React js
   
 📈 **My GitHub Stats:**
 
