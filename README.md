@@ -1,4 +1,4 @@
-# Hi, I'm TitanKnis
+# Hi, I'm Alaa
 
 First-year Computer Science student passionate about Linux, DevOps and the Cloud.
 
